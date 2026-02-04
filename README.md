@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 💫 about me:
 🤖 mechanical engineer → robotics & autonomy<br>🛠️ building real-world systems (robots, control stacks)<br>☕ sleep-deprived engineer<br>😰 git anxiety
 
 
-## 🌐 Socials:
+## 🌐 socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hunzalarajput) 
 
-# 💻 Tech Stack:
+# 💻 tech stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -28,7 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 github stats:
 ![](https://github-readme-stats.vercel.app/api?username=GenerouScientist&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GenerouScientist&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GenerouScientist&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
