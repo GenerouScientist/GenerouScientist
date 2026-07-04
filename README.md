@@ -1,5 +1,5 @@
 ## 💫 about me:
-🤖 mechanical engineer → robotics & autonomy<br><br>☕ sleep-deprived engineer<br>😰 git anxiety
+🤖 mechanical engineer → robotics & autonomy<br>☕ sleep-deprived engineer<br>😰 git anxiety
 
 
 ## 🌐 socials:
